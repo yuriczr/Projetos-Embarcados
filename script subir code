@@ -1,0 +1,6 @@
+$git clone link_do_repositorio
+$cd nome_do_repositorio
+//colocar arquivo dentro da pasta pelo gerenciador de arquivos
+$git add .
+$git commit -m "mensagem do commit"
+$git push origin main
